@@ -3,7 +3,7 @@
 # Run `pod lib lint pdf_text.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'pdf_text'
+  s.name             = 'flutter_pdf_text'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
